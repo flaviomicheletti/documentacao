@@ -2,11 +2,15 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.tittle }}</title>
+    <title>My First Page</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
     {% include header.html %}
   </head>
   <body>
+
     {% include nav.html %}
+
+    {% include jumbo.html %}
 
     <section>
        {{ content }}
@@ -15,6 +19,5 @@
     <footer>
       {% include footer.html %}
     </footer>
-
   </body>
 </html>
