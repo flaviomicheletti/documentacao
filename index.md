@@ -1,9 +1,10 @@
 ---
-title  : index
-layout : base
+title  : Documentação
+layout : home
 ---
 
 Esta é a index !!!
+
 
 
 
