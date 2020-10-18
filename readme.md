@@ -12,3 +12,7 @@ Outro ponto positivo é sua criação e manutenção. Pelo fato de utilizarmos M
 (ferramenta de conversão texto para HTMl) sua leitura e escrita é otimizada.
 
 Veja o resultado em https://flaviomicheletti.github.io/documentacao-funcional-com-jekylll
+
+### OK
+
+O conteúdo eu extraí daqui com certeza https://json-schema.org/learn/getting-started-step-by-step.html
